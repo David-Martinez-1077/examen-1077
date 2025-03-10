@@ -2,7 +2,10 @@
 
 A new Flutter project.
 
-## Getting Started
+## capturas
+![image](https://github.com/user-attachments/assets/92fda006-4f76-48c9-ad6b-ddc71635affa)
+![image](https://github.com/user-attachments/assets/27697a09-d10d-4f08-ac2d-81fee7d6af1a)
+
 
 This project is a starting point for a Flutter application.
 
